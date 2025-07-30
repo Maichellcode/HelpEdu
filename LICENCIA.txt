@@ -1,0 +1,41 @@
+LICENCIA DE USO, VENTA, PROPIEDAD Y PRIVACIDAD PARA EL REPOSITORIO DE GITHUB DE HELPEDU:
+
+1. Definiciones:
+
+HelpEdu: Se refiere a la aplicación web para agendar citas con la coordinadora de una institución, cuyo código fuente se encuentra en este repositorio de GitHub.
+Repositorio: Se refiere al repositorio de GitHub que contiene el código fuente, documentación y otros archivos relacionados con HelpEdu.
+Usuario: Se refiere a cualquier persona que acceda, descargue, utilice o modifique el código fuente de HelpEdu.
+Licenciante: [Inserte el nombre del licenciante o la organización]
+2. Otorgamiento de Licencia:
+
+El Licenciante otorga al Usuario una licencia no exclusiva, no transferible y revocable para utilizar el código fuente de HelpEdu bajo los términos y condiciones de esta licencia.
+
+3. Restricciones:
+
+El Usuario no podrá vender, distribuir o sublicenciar el código fuente de HelpEdu sin el consentimiento previo por escrito del Licenciante.
+El Usuario no podrá utilizar el código fuente de HelpEdu para crear aplicaciones competidoras o que infrinjan los derechos de propiedad intelectual del Licenciante.
+El Usuario no podrá modificar la licencia o los avisos de copyright del código fuente de HelpEdu.
+El Usuario no podrá realizar ingeniería inversa, descompilar o desensamblar el código fuente de HelpEdu.
+4. Propiedad Intelectual:
+
+Todos los derechos de propiedad intelectual sobre el código fuente de HelpEdu, incluyendo pero no limitado a los derechos de autor, patentes y secretos comerciales, son propiedad exclusiva del Licenciante.
+
+5. Privacidad:
+
+El Usuario se compromete a respetar la privacidad de los usuarios de HelpEdu y a cumplir con todas las leyes y regulaciones aplicables en materia de protección de datos.
+
+6. Limitación de Responsabilidad:
+
+El Licenciante no se hace responsable por ningún daño directo, indirecto, incidental o consecuente que surja del uso o la imposibilidad de usar el código fuente de HelpEdu.
+
+7. Terminación:
+
+El Licenciante podrá terminar esta licencia en cualquier momento si el Usuario incumple cualquiera de sus términos y condiciones.
+
+8. Ley Aplicable:
+
+Esta licencia se regirá e interpretará de acuerdo con las leyes de [Inserte el país o jurisdicción].
+
+9. Aceptación:
+
+Al acceder, descargar, utilizar o modificar el código fuente de HelpEdu, el Usuario acepta los términos y condiciones de esta licencia.
