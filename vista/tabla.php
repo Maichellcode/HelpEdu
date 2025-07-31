@@ -175,25 +175,6 @@ $resultado = mysqli_query($conexion, $sql);
     </tr>
 
   
-   <?php while ($ver = mysqli_fetch_row($resultado)) { ?>
-    <tr>
-        <td><?php echo $ver[0]; ?></td>
-        <td><?php echo $ver[1]; ?></td>
-        <td><?php echo $ver[2]; ?></td>
-        <td><?php echo $ver[3]; ?></td>
-        <td><?php echo $ver[4]; ?></td>
-        <td><?php echo $ver[5]; ?></td>
-        <td><?php echo $ver[6]; ?></td>
-
-
-        <td>
-            <button class="eliminar" onclick="eliminarestudiante('<?php echo $ver[0]; ?>')">Eliminar</button>
-        </td>
-        <td>
-            <button class="editar" onclick="editarestudiantes('<?php echo $ver[0]; ?>')">Editar</button>
-        </td>
-    </tr>
-<?php } ?>
 
 </table>
 
